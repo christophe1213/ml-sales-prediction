@@ -1,5 +1,5 @@
 outs:
-- md5: 1afdd58e1d662b40bbe749098c9bfd5f
-  size: 158098545
+- md5: 7bade605d3c4afe5846c16414ece76ad
+  size: 58367691
   hash: md5
   path: modele_prediction_ventes.pkl
